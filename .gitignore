@@ -9,3 +9,8 @@ ResourceFramework/Temp/UnityVS_bin
 ResourceFramework/.idea
 ResourceFramework/obj/
 ResourceFramework/Logs/
+ResourceFramework/Assembly-CSharp-Editor.csproj
+
+ResourceFramework/Assembly-CSharp.csproj
+
+ResourceFramework/ResourceFramework.sln
