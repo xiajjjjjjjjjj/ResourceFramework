@@ -6,3 +6,6 @@ ResourceFramework/Temp/UnityLockfile
 ResourceFramework/.vs
 ResourceFramework/Temp
 ResourceFramework/Temp/UnityVS_bin
+ResourceFramework/.idea
+ResourceFramework/obj
+ResourceFramework/obj/Debug
